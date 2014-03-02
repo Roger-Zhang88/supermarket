@@ -4,3 +4,5 @@
 #Env
 #python2.6, django 1.6
 
+#FileStructure
+#-mysite
